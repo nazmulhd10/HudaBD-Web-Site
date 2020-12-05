@@ -21,7 +21,29 @@
 
 
 
-
+    .col-md-6{
+        padding:10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .col-md-6 .text{
+        padding: 5px;
+        border-left: 6px solid #50C878 ;
+     }
+     .col-md-6 .text h1{
+        padding: 10px;
+        font-size: 45px;
+     }
+     .col-md-6 .text p{
+        padding: 10px;
+        text-align: justify;
+     }
+     .col-md-6 img{
+         padding: 10px;;
+         height: auto;
+         width: 40rem;
+     }
 
 
 
