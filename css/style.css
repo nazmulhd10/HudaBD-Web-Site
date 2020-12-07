@@ -13,7 +13,28 @@
 
 
 
-
+    .hero-image{
+        background-image: url(../img/pexels-laker-5792850.jpg);
+        position: relative;
+    }
+    .hero-text{
+        text-align: center;
+        color: #ffffff;
+    }
+    .hero-text .h1{
+        font-size: 30px;
+    }
+    .hero-button{
+        border: none;
+        background-color: rgba(24, 172, 36, 1);
+        margin: 10px;
+        padding: 10px;
+        color: #ffffff;
+    }
+    .hero-button:hover{
+        background-color: rgba(24, 172, 36, .5);
+        color: #241414;
+    }
 
 
 
